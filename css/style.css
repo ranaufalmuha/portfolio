@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'futura';
+    src: url('/assets/fonts/futura.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'futurabold';
+    src: url('/assets/fonts/futurabold.ttf');
+    font-style: normal;
+}
+
+/* #5B77F6  */
+body {
+    font-size: 1.2rem;
+    font-family: 'futura', arial, sans-serif;
+}
+
+.myprofile {
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.myfontbold {
+    font-family: 'futurabold', arial, sans-serif;
+}
+
+.mycertificate {
+    width: 290px;
+    height: 150px;
+    object-fit: cover;
+
+}
+
+.mysertificatedetail {
+    width: 100%;
+    object-fit: cover;
+}
+
+/* button  */
+.mybtncenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mybtnnavbar {
+    text-decoration: none;
+    color: rgb(116, 116, 116);
+    background-color: transparent;
+    padding: .6rem 1rem;
+    border-radius: 10px;
+}
+
+.mybtnnavbar:hover {
+    background-color: rgba(71, 71, 71, 0.319);
+    color: white;
+}
+
+.mybtnnavbar-active {
+    text-decoration: none;
+    color: white;
+    background-color: #5B77F6;
+    padding: .6rem 1rem;
+    border-radius: 10px;
+    font-family: 'futurabold', arial, sans-serif;
+}
+
+.mybtngrid {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    border-style: dashed;
+    border-color: gray;
+    border-width: 1px;
+}
+
+/* background  */
+.bg-myprimary {
+    background-color: #5B77F6;
+    color: white;
+    padding: .6rem 1.3rem;
+    text-decoration: none;
+}
+
+.bg-disable {
+    background-color: rgba(71, 71, 71, 0.319);
+}
+
+/* text  */
+.mysmalltext {
+    text-align: start;
+    font-size: 13px;
+}
+
+.text-disable {
+    color: rgb(190, 190, 190);
+}
+
+.text-verydisable {
+    color: rgb(116, 116, 116);
+}

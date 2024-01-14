@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Programming Essentials in Python",
+        "by": "Cisco",
+        "date": "Nov 5, 2023",
+        "path": "/assets/certificates/RanaufalMuha-Python_TI2023-certificate-1.png"
+    },
+    {
+        "title": "Database Programming With SQL",
+        "by": "Oracle",
+        "date": "July 31, 2023",
+        "path": "/assets/certificates/Database_With_SQL-1.png"
+    },
+    {
+        "title": "Dasar Visualisasi Data",
+        "by": "Dicoding",
+        "date": "June 15, 2022",
+        "path": "/assets/certificates/Sertifikat_Dicoding-Visualisasi_Data-1.png"
+    },
+    {
+        "title": "AWS Machine Learning",
+        "by": "Amazon",
+        "date": "Jan 5, 2024",
+        "path": "/assets/certificates/AWS_Machine_Learning-Ranaufal_Muha.png"
+    }
+]
